@@ -1,6 +1,11 @@
 public class Demo {
 
     public static void main(String[] args){
-        System.out.println("This is a Demo project");
+        greet();
     }
+
+    public static void greet(){
+        System.out.println("This is Greet Project - Modified");
+    }
+
 }

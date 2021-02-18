@@ -5,7 +5,7 @@ public class Demo {
     }
 
     public static void greet(){
-        System.out.println("This is Greet Project - Modified");
+        System.out.println("This is Greet Project - Modified-DoubleModified");
     }
 
 }
